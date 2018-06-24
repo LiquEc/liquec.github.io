@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LiquEc - Liquefaction According to Eurocode
+title: Starting with LiquEc
 ---
 
 Liquefaction According to Eurocode
