@@ -17,9 +17,9 @@ LiquEc is built for Java 8.
 ## How To Run LiquEc
 
 Go to the [download](https://personal.ua.es/es/joseluis-pastor/liquec.html) page of the website to get the latest release of LiquEc.  Alternatively, you can run the development version from the command line as follows:
-```
+~~~
 $ ./gradlew :gui:run
-```
+~~~
 
 ## How to Use LiquEc
 
