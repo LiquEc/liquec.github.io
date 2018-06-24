@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Starting with LiquEc
+date:   2018-06-24
+author: Pablo Benito González
 ---
 
 Liquefaction According to Eurocode
