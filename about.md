@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Published under the GNU Licence, Version 2.0
+
+José Luis Pastor Navarro & Pablo Benito González
+
+Copyright (c) 2018
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You can find more information about LiquEc at [José Luis Pastor personal area](https://personal.ua.es/es/joseluis-pastor/liquec.html).
