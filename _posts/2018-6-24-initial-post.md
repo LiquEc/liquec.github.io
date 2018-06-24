@@ -6,7 +6,7 @@ title: Initial Post
 
 Liquefaction According to Eurocode
 
-[![LiquEc](assets/liquec-start-view.png)](https://github.com/LiquEc)
+[![LiquEc]({{ site.baseurl }}/images/liquec-start-view.png)](https://github.com/LiquEc)
 
 ## Prerequisites
 
@@ -17,9 +17,9 @@ LiquEc is built for Java 8.
 ## How To Run LiquEc
 
 Go to the [download](https://personal.ua.es/es/joseluis-pastor/liquec.html) page of the website to get the latest release of LiquEc.  Alternatively, you can run the development version from the command line as follows:
-~~~
+```
 $ ./gradlew :gui:run
-~~~
+```
 
 ## How to Use LiquEc
 
@@ -53,11 +53,11 @@ $ sudo apt-get install openjfx
 
 ## Screenshots
 
-[![LiquEc](assets/liquec-main-view.png)](https://github.com/LiquEc)
+[![LiquEc]({{ site.baseurl }}/images/liquec-main-view.png)](https://github.com/LiquEc)
 
-[![LiquEc](assets/liquec-result-view.png)](https://github.com/LiquEc)
+[![LiquEc]({{ site.baseurl }}/images/liquec-result-view.png)](https://github.com/LiquEc)
 
-[![LiquEc](assets/liquec-about-view.png)](https://github.com/LiquEc)
+[![LiquEc]({{ site.baseurl }}/images/liquec-about-view.png)](https://github.com/LiquEc)
 
 ## Special Thanks
 
