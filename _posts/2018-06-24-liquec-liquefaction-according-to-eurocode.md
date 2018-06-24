@@ -1,9 +1,6 @@
 ---
 layout: post
-title: "LiquEc - Liquefaction According to Eurocode"
-date: 2018-06-24
-author Pablo Benito González
-description: All about LiquEc
+title: LiquEc - Liquefaction According to Eurocode
 ---
 
 Liquefaction According to Eurocode
