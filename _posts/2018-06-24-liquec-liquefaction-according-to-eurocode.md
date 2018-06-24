@@ -1,7 +1,9 @@
-[front-matter](http://jekyllrb.com/docs/frontmatter/)
 ---
 layout: post
-title: Initial Post
+title: "LiquEc - Liquefaction According to Eurocode"
+date: 2018-06-24
+author Pablo Benito González
+description: All about LiquEc
 ---
 
 Liquefaction According to Eurocode
