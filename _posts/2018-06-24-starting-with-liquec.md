@@ -7,6 +7,12 @@ Liquefaction According to Eurocode
 
 [![LiquEc]({{ site.baseurl }}/images/liquec-start-view.png)](https://github.com/LiquEc)
 
+## Authors
+
+Dr. José Luis Pastor Navarro (_Civil and Geological Engineer_)
+
+Pablo Benito González (_Civil Engineer and Java Developer_)
+
 ## Prerequisites
 
 You will need Java 8 to build and run LiquEc.  You can download it from the [Oracle Website](http://www.oracle.com/technetwork/java/javase/downloads/index.html).  Everything else, including Gradle, will be downloaded by the build process.
@@ -58,9 +64,40 @@ $ sudo apt-get install openjfx
 
 [![LiquEc]({{ site.baseurl }}/images/liquec-about-view.png)](https://github.com/LiquEc)
 
+## Download Releases
+
+### Microsoft Windows
+
+The latest release of LiquEc can be downloaded as a Zip file [here](https://github.com/LiquEc/LiquEc/releases).
+
+First extract the contents of the Zip file into a directory. Then run the LiquEc.bat file found in the bin directory. Depending on your Windows version and settings you may see an error preventing you from running the program. If you do, click the ‘More Info’ hyperlink and then choose the ‘Run Anyway’ option.
+
+Alternatively, you can try the experimental new Windows installer (.exe).
+
+Double click on the file and you will be taken through the process of installing LiquEc on your PC.
+
+### Linux
+
+The latest release of Linux can be downloaded as a Deb file [here](https://github.com/LiquEc/LiquEc/releases).
+
+You can install the package as follows (changing the release version in the file name for de downloaded one):
+
+~~~
+$ sudo dpkg -i LiquEc-0.0.0.deb
+~~~
+
+LiquEc will now run like any other Linux desktop application.
+
+### Apple Mac
+
+At the moment there is no installable version for MAC and it is not planned to develop it in the immediate future.
+
 ## Special Thanks
 
 This project is based on the structure of the great [VocabHunter](https://github.com/VocabHunter/VocabHunter), developed by [@AdamCarroll](https://github.com/AdamCarroll).
 
 This project uses [emxsys](https://bitbucket.org/emxsys/javafx-chart-extensions/wiki/Home) chart extensions.
 
+## Responsability
+
+Authors are not responsible for any potential harm that may arise from the use and/or the interpretation of results obtained when running LiquEc.
